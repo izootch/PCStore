@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236074453412",
+    "project_id": "pc-srore",
+    "storage_bucket": "pc-srore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236074453412:android:35c8b06ca544ef623b1931",
+        "android_client_info": {
+          "package_name": "com.example.pc_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF9_PqqJMQLbWWBmygSA7oPIlpd_sRGpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
